@@ -1,2 +1,2 @@
 # isoFLUX
-Simulation code of isoFLUX
+Simulation code and dataset of isoFLUX
